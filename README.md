@@ -4,6 +4,6 @@
 
 ```
 const httpStatusCodes = require('@akshayraichur/http-status-codes')
-console.log(httpStatusCodes.badGateway)
+console.log(httpStatusCodes.badGateway) // 502
 
 ```
