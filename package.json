@@ -1,5 +1,5 @@
 {
-	"name": "status-codes",
+	"name": "@akshayraichur/http-status-codes",
 	"version": "1.0.0",
 	"description": "This is a package which maps with http status codes with its names",
 	"main": "app.js",
